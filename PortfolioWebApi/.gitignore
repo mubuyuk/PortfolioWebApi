@@ -1,0 +1,7 @@
+﻿# Ignorera känsliga filer
+appsettings.json
+appsettings.Development.json
+
+# Ignorera migrations och databasfiler (valfritt)
+migrations/
+*.db
